@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@source "../views";
+
+@theme{
+    --font-primary: "Hanken Grotesk", "sans-serif";
+    --text-2xs: 0.625rem;
+    --color-black: #060606;
+}
